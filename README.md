@@ -1,5 +1,5 @@
 Ethnus- MERN Full stack
-Sovan Bhakta
-sovan.22bce8046@vitapstudent.ac.in
+Aman Jadon
+aman.22bce7918@vitapstudent.ac.in
 VIT-AP
-2:30 - 4:30
+11:30 - 1:30
